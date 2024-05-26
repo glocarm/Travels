@@ -36,16 +36,16 @@ header {
   background: #2b222c;
 }
 /* Estilos del Navbar del header*/
-nav a,
+.nav-resp-header a,
 li {
   max-width: 600px;
   padding-top: 25px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
 }
-nav ul li a {
-  margin: 4px;
-  padding: 3px;
+.nav-resp-header ul li a {
+  margin: 1px;
+  padding: 2px;
 }
 ul {
   list-style-type: none;
@@ -429,7 +429,6 @@ h2 {
   font-size: 30px;
 }
 
-
 /* ESTILO DE LA PAGINA actividades.html*/
 .contenidoA {
   display: flex;
@@ -486,11 +485,6 @@ h2 {
   .txt-resp-header {
     width: 100%;
     text-align: center;
-  }
-  .nav-resp-header {
-    width: 100%;
-    margin-left: 50px;
-    margin-right: 50px;
   }
   .infoContendido {
     width: 100%;
@@ -553,14 +547,13 @@ h2 {
     height: 30px;
     font-size: 15px;
   }
-  #ImgEco{
+  #ImgEco {
     width: 80%;
     height: auto;
     border-radius: 10px;
     margin-left: 40px;
-
   }
-  .parrafoA{
+  .parrafoA {
     font-size: 10px;
   }
 }
@@ -637,13 +630,13 @@ h2 {
     height: 30px;
     font-size: 15px;
   }
-  #ImgEco{
+  #ImgEco {
     width: 90%;
     height: auto;
     border-radius: 10px;
     margin-left: 40px;
   }
-  .parrafoA{
+  .parrafoA {
     font-size: 14px;
   }
 }
