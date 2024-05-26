@@ -13,22 +13,22 @@
           "horario_cierre": "17:00" 
      } ,
      {    "nombre": "Caminito", 
-          "direccion": "Av. 9 de Julio", 
-          "imgsitio": "imagenes/sitios/sitiosVisitar/caminito.jpg",
-          "horario_apertura": "9:00", 
-          "horario_cierre": "18:00" 
+          "direccion": "La Boca", 
+          "imgsitio": "imagenes/sitios/sitiosVisitar/caminito2.jpg",
+          "horario_apertura": "00:00", 
+          "horario_cierre": "24:00" 
      }, 
      {    "nombre": "Floralis Generica", 
-          "direccion": "Plaza de Mayo", 
+          "direccion": "Av.Pres.Figueroa Alcorta 2301", 
           "imgsitio": "imagenes/sitios/sitiosVisitar/floralis-generica.jpg",
-          "horario_apertura": "10:00", 
-          "horario_cierre": "17:00" 
+          "horario_apertura": "00:00", 
+          "horario_cierre": "24:00" 
      } ,
      {    "nombre": "Puerto Madero", 
           "direccion": "Av. 9 de Julio", 
           "imgsitio": "imagenes/sitios/sitiosVisitar/puerto-madero.jpg",
-          "horario_apertura": "9:00", 
-          "horario_cierre": "18:00" 
+          "horario_apertura": "00:00", 
+          "horario_cierre": "24:00" 
      }
      ] 
 }

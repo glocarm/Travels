@@ -61,7 +61,7 @@ fetch("/db/nosotras.json")
   })
   .catch((error) => console.log(error));
 
-  fetch("/db/sitios.json")
+   fetch("/db/sitios.json")
   .then((response) => response.json())
   .then((data) => {
     const dataArray = data.data;
@@ -87,4 +87,4 @@ fetch("/db/nosotras.json")
       dataSitios.appendChild(sitioInfo);
     });
   })
-  .catch((error) => console.log(error));
+  .catch((error) => console.log(error)); 
